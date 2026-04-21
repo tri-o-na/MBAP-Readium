@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "379740612490",
+    "project_id": "clotho-v1",
+    "storage_bucket": "clotho-v1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379740612490:android:cfdb6a0f9e1031d87dca73",
+        "android_client_info": {
+          "package_name": "com.example.readium_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379740612490-8fnqcu0k409cudela7uap44dcrmo4l8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzSdjliyW05ohLfzGdtbW1Mti5srL1RmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379740612490-8fnqcu0k409cudela7uap44dcrmo4l8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
